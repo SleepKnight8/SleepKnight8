@@ -11,4 +11,4 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SleepKnight8&theme=python-dark)](https://git.io/streak-stats)
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SleepKnight8&theme=ocean-dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=SleepKnight8&theme=ocean-dark&hide_border=true)](https://git.io/streak-stats)
