@@ -7,3 +7,6 @@
 
 
 [![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOCnZnEw)](https://www.git-ranker.com)
+
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SleepKnight8)](https://git.io/streak-stats)
