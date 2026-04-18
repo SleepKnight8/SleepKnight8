@@ -13,8 +13,3 @@
 
 
 [![Top Langs](https://beautiful-github-homepage.vercel.app/api/top-langs/?username=SleepKnight8&size_weight=0.5&count_weight=0.5&theme=tokyonight)](https://github.com/ishandutta2007/beautiful-github-homepage)
-
-
-[![committers.top badge](https://user-badge.committers.top/saudi_arabia_private/SleepKnight8.svg)](https://committers.top/saudi_arabia_private)
-
-[![committers.top badge](https://user-badge.committers.top/saudi_arabia/SleepKnight8.svg)](https://committers.top/saudi_arabia)
