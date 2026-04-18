@@ -12,4 +12,4 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=SleepKnight8&theme=ocean-dark&hide_border=true)](https://git.io/streak-stats)
 
 
-[![Top Langs](https://beautiful-github-homepage.vercel.app/api/top-langs/?username=SleepKnight8&size_weight=0.5&count_weight=0.5)](https://github.com/ishandutta2007/beautiful-github-homepage)
+[![Top Langs](https://beautiful-github-homepage.vercel.app/api/top-langs/?username=SleepKnight8&size_weight=0.5&count_weight=0.5&theme=tokyonight)](https://github.com/ishandutta2007/beautiful-github-homepage)
