@@ -9,8 +9,7 @@
 [![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOCnZnEw)](https://www.git-ranker.com)
 
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SleepKnight8&theme=python-dark)](https://git.io/streak-stats)
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=SleepKnight8&theme=ocean-dark&hide_border=true)](https://git.io/streak-stats)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=SleepKnight8&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![SleepKnight8 GitHub stats](https://beautiful-github-homepage.vercel.app/api?username=SleepKnight8)](https://github.com/ishandutta2007/beautiful-github-homepage)
