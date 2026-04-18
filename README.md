@@ -10,6 +10,3 @@
 
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=SleepKnight8&theme=ocean-dark&hide_border=true)](https://git.io/streak-stats)
-
-
-[![SleepKnight8 GitHub stats](https://beautiful-github-homepage.vercel.app/api?username=SleepKnight8)](https://github.com/ishandutta2007/beautiful-github-homepage)
