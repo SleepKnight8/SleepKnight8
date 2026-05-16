@@ -6,9 +6,6 @@
 />
 
 
-[![Git Ranker](https://www.git-ranker.com/api/v1/badges/U_kgDOCnZnEw)](https://www.git-ranker.com)
-
-
 [![GitHub Streak](https://streak-stats.demolab.com?user=SleepKnight8&theme=ocean-dark&hide_border=true)](https://git.io/streak-stats)
 
 
